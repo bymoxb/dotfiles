@@ -17,3 +17,6 @@ alias vi=vim
 
 # alias para usar el comando open
 alias open='xdg-open'
+
+# agregando custom scripts
+export PATH="$HOME/.local/bin:$PATH"
